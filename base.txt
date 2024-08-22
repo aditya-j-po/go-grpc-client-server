@@ -1,0 +1,1000 @@
+ 1026  nvim spotify.desktop 
+ 1027  clear
+ 1028  pwd
+ 1029  ls
+ 1030  clear
+ 1031  cat spotify.desktop 
+ 1032  clear
+ 1033  clera
+ 1034  clear
+ 1035  exit
+ 1036  clear
+ 1037  git add .
+ 1038  git commit -m "update condition"
+ 1039  git push 
+ 1040  clear
+ 1041  gh pr create 
+ 1042  clear
+ 1043  npm run start:prod
+ 1044  clear
+ 1045  exit
+ 1046  sudo apt update
+ 1047  ls
+ 1048  clear
+ 1049  cd /etc/
+ 1050  ls
+ 1051  fzf 
+ 1052  clear
+ 1053  l
+ 1054  cd ..
+ 1055  ls
+ 1056  cear
+ 1057  clear
+ 1058  cd /usr/share/
+ 1059  ls
+ 1060  cd spotify/
+ 1061  ls
+ 1062  clear
+ 1063  cat spotify
+ 1064  clear
+ 1065  ls
+ 1066  cat spotify.desktop 
+ 1067  clear
+ 1068  ls
+ 1069  cat spotify.desktop 
+ 1070  clear
+ 1071  cd ~
+ 1072  ls
+ 1073  clear
+ 1074  cd codewits/protectonce/
+ 1075  ls
+ 1076  cd aws-cost-optim/
+ 1077  ls
+ 1078  clear
+ 1079  npm create @quick-start/electron
+ 1080  ls
+ 1081  clear
+ 1082  cd appkikashish/
+ 1083  ls
+ 1084  claer
+ 1085  npm i -f
+ 1086  code .
+ 1087  exit
+ 1088  ls
+ 1089  clear
+ 1090  exit
+ 1091  clear
+ 1092  npm run dev
+ 1093  clear
+ 1094  npm run dev
+ 1095  clear
+ 1096  npm run dev
+ 1097  clear
+ 1098  npm run dev
+ 1099  clear
+ 1100  npm run dev
+ 1101  clear
+ 1102  npm run dev
+ 1103  clear
+ 1104  exit
+ 1105  npm run dev
+ 1106  clear
+ 1107  npm run dev
+ 1108  clear
+ 1109  npm run dev
+ 1110  clear
+ 1111  npm run dev
+ 1112  clear
+ 1113  npm run dev
+ 1114  clear
+ 1115  npm run dev
+ 1116  clear
+ 1117  npm install --save-dev eslint-config-prettier
+ 1118  clear
+ 1119  npm run dev
+ 1120  clear
+ 1121  exit
+ 1122  ls
+ 1123  cd codewits/protectonce/k8s-samples/
+ 1124  ls
+ 1125  clear
+ 1126  code .
+ 1127  exit
+ 1128  ls
+ 1129  clear
+ 1130  git fetch 
+ 1131  git checkout main 
+ 1132  git pull 
+ 1133  clear
+ 1134  exit
+ 1135  ls
+ 1136  clear
+ 1137  appkikashish 
+ 1138  sudo apt autoremove appkikashish 
+ 1139  clear
+ 1140  exit
+ 1141  npm run dev
+ 1142  clear
+ 1143  npm run dev
+ 1144  clear
+ 1145  npm run dev
+ 1146  clear
+ 1147  npm i -f @aws-sdk/client-iam @aws-sdk/client-eks @aws-sdk/client-ec2
+ 1148  clear
+ 1149  npm run dev
+ 1150  clear
+ 1151  npm run dev
+ 1152  clear
+ 1153  npm run dev
+ 1154  clear
+ 1155  npm run dev
+ 1156  clear
+ 1157  npm run dev
+ 1158  clear
+ 1159  npm run start:dev
+ 1160  npm run build
+ 1161  clear
+ 1162  electron-vite build
+ 1163  npx electron-vite build
+ 1164  build:linux
+ 1165  npm run build:linux
+ 1166  ls
+ 1167  cd dist/
+ 1168  ls
+ 1169  clear
+ 1170  ls
+ 1171  clear
+ 1172  du -sh
+ 1173  du
+ 1174  du -h
+ 1175  ls
+ 1176  ls -lah
+ 1177  clear
+ 1178  sudo dpkg -i appkikashish_1.0.0_amd64.deb 
+ 1179  ls
+ 1180  clear
+ 1181  ls
+ 1182  cd linux-unpacked/
+ 1183  ls
+ 1184  ll
+ 1185  clear
+ 1186  du -sh
+ 1187  claer
+ 1188  ls
+ 1189  clear
+ 1190  ll
+ 1191  lah
+ 1192  clear
+ 1193  lah
+ 1194  cat appkikashish 
+ 1195  clear
+ 1196  exit
+ 1197  clear
+ 1198  sudo apt update
+ 1199  clear
+ 1200  sudo apt upgrade 
+ 1201  clear
+ 1202  sudo apt autoremove 
+ 1203  clear
+ 1204  sudo apt ugpr
+ 1205  sudo apt upgrade 
+ 1206  clear
+ 1207  sudo apt autopurge 
+ 1208  clear
+ 1209  exit
+ 1210  clear
+ 1211  s
+ 1212  clear
+ 1213  ls
+ 1214  clear
+ 1215  npm i -D daisyui@latest
+ 1216  npm install -D tailwindcss
+ 1217  npx tailwindcss init
+ 1218  clear
+ 1219  [200~npx tailwindcss -i ./src/input.css -o ./src/output.css --watch~
+ 1220  clear
+ 1221  npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+ 1222  npm install -D tailwindcss postcss autoprefixer
+ 1223  npx tailwindcss init -p
+ 1224  npm run dev
+ 1225  clear
+ 1226  npm run dev
+ 1227  code .
+ 1228  xit
+ 1229  exit
+ 1230  fzf 
+ 1231  cd .git/
+ 1232  ls
+ 1233  clear
+ 1234  fzf
+ 1235  exit
+ 1236  ls
+ 1237  clear
+ 1238  cd codewits/protectonce/
+ 1239  code webapp-local/wa2207/
+ 1240  exit
+ 1241  ls
+ 1242  cd codewits/protectonce/
+ 1243  ls
+ 1244  clear
+ 1245  gh repo clone $PO/backend-mock
+ 1246  gh repo clone $PO/bff-mock
+ 1247  ls
+ 1248  clear
+ 1249  gh repo clone $PO/bff-mock
+ 1250  clear
+ 1251  ls
+ 1252  open .
+ 1253  clear
+ 1254  exit
+ 1255  git fetch origin 
+ 1256  clear
+ 1257  git checkout main
+ 1258  clear
+ 1259  git pull origin main
+ 1260  clear
+ 1261  git checkout main
+ 1262  git pull origin main
+ 1263  clear
+ 1264  npm i -f
+ 1265  clear
+ 1266  exit
+ 1267  ls
+ 1268  clear
+ 1269  sudo apt update
+ 1270  clear
+ 1271  sudo apt upgrade 
+ 1272  clear
+ 1273  sudo apt update
+ 1274  clear
+ 1275  sudo apt upgrade 
+ 1276  sudo apt autoremove 
+ 1277  sudo apt autopurge 
+ 1278  clear
+ 1279  exit
+ 1280  clear
+ 1281  git checkout  feature/E2ETests 
+ 1282  ls
+ 1283  clear
+ 1284  git fetch 
+ 1285  clear
+ 1286  git pull origin main
+ 1287  clear
+ 1288  npm run start:stagemock
+ 1289  clear
+ 1290  rm -rf node_modules/
+ 1291  clear
+ 1292  ls
+ 1293  cd codewits/protectonce/Bff-Mock/
+ 1294  ls
+ 1295  clear
+ 1296  ls
+ 1297  clear
+ 1298  clera
+ 1299  ls
+ 1300  clear
+ 1301  ls
+ 1302  clear
+ 1303  ls
+ 1304  clear
+ 1305  exit
+ 1306  clear
+ 1307  exit
+ 1308  go version
+ 1309  ls
+ 1310  clear
+ 1311  sudo 
+ 1312  sudo su
+ 1313  ls
+ 1314  clear
+ 1315  cd Downloads/
+ 1316  clear
+ 1317  ls
+ 1318  clear
+ 1319  sudo  rm -rf /usr/local/go && tar -C /usr/local -xzf go1.23.0.linux-amd64.tar.gz
+ 1320  clear
+ 1321  sudo su
+ 1322  export PATH=$PATH:/usr/local/go/bin
+ 1323  clear
+ 1324  cd ~
+ 1325  nvim .bash
+ 1326  nvim .bashrc 
+ 1327  clear
+ 1328  ls
+ 1329  clear
+ 1330  exit
+ 1331  npm i -f
+ 1332  ls
+ 1333  clear
+ 1334  sudo apt update
+ 1335  clear
+ 1336  sudo apt upgrade 
+ 1337  clear
+ 1338  npm run start:stagemock
+ 1339  clear
+ 1340  exit
+ 1341  l
+ 1342  ls
+ 1343  clear
+ 1344  ls
+ 1345  clear
+ 1346  ls
+ 1347  clear
+ 1348  cd codewits/protectonce/
+ 1349  ls
+ 1350  clear
+ 1351  ls
+ 1352  clear
+ 1353  mkdir go-grpc
+ 1354  cd go-grpc/
+ 1355  ls
+ 1356  cldar
+ 1357  clear
+ 1358  go mod init
+ 1359  go mod init .
+ 1360  go mod init spacebound.com/m/
+ 1361  ls
+ 1362  clear
+ 1363  go mod init spacebound.com
+ 1364  go mod init
+ 1365  ls
+ 1366  rm go.mod 
+ 1367  go mod init
+ 1368  go mod init spacebound.com/m
+ 1369  ls
+ 1370  clear
+ 1371  la
+ 1372  ls
+ 1373  cat go.mod 
+ 1374  ls
+ 1375  clear
+ 1376  ls
+ 1377  clear
+ 1378  ls
+ 1379  clear
+ 1380  mkdir cmd pkg api ui internal models lib scripts tools utils 
+ 1381  ls
+ 1382  clear
+ 1383  ll
+ 1384  clear
+ 1385  ls
+ 1386  clear
+ 1387  code .
+ 1388  exit
+ 1389  clear
+ 1390  ls
+ 1391  go run go.mod 
+ 1392  clear
+ 1393  ls
+ 1394  clear
+ 1395  rm go.mod 
+ 1396  clear
+ 1397  go mod init github.com/aditya-j-po/m
+ 1398  ls
+ 1399  clear
+ 1400  go mod tidy
+ 1401  go mod init github.com/aditya-j-po/m
+ 1402  ls
+ 1403  rm go.mod 
+ 1404  ls
+ 1405  clear
+ 1406  go mod init github.com/aditya-j-po/go-grpc
+ 1407  ls
+ 1408  cat go.mod 
+ 1409  rm ls
+ 1410  clear
+ 1411  ls
+ 1412  clear
+ 1413  go mod tidy
+ 1414  clear
+ 1415  exit
+ 1416  curl -sSL https://git.io/g-install | sh -s -- bash
+ 1417  clear
+ 1418  alias ggovm="$GOPATH/bin/g"; # g-install: do NOT edit, see https://github.com/stefanmaric/g
+ 1419  ls
+ 1420  clear
+ 1421  gogvm
+ 1422  ggovm
+ 1423  clear
+ 1424  exit
+ 1425  ggovm
+ 1426  clear
+ 1427  nvim .bashrc 
+ 1428  clear
+ 1429  ggovm
+ 1430  clear
+ 1431  exit
+ 1432  ggovm
+ 1433  curl -sSL https://git.io/g-install | sh -s -- bash
+ 1434  g
+ 1435  ggovm
+ 1436  clear
+ 1437  nvim .bashrc 
+ 1438  clear
+ 1439  source .bashrc 
+ 1440  clear
+ 1441  ggovm
+ 1442  qclear
+ 1443  clear
+ 1444  exit
+ 1445  g install latest
+ 1446  ggo install
+ 1447  ggovm
+ 1448  ggo install
+ 1449  ggovm install
+ 1450  ggovm list
+ 1451  clear
+ 1452  exit
+ 1453  ls
+ 1454  clear
+ 1455  cd ..
+ 1456  ls
+ 1457  clar
+ 1458  mkdir goplay
+ 1459  cd goplay/
+ 1460  ls
+ 1461  clear
+ 1462  git clone https://github.com/scraly/learning-go-by-examples.git
+ 1463  cd learning-go-by-examples/
+ 1464  ls
+ 1465  clear
+ 1466  ls
+ 1467  claer
+ 1468  mkdir go-rest-api
+ 1469  cd go-rest-api/
+ 1470  ls
+ 1471  clear
+ 1472  ls
+ 1473  cd ..
+ 1474  ls
+ 1475  cd ..
+ 1476  ls
+ 1477  rm -rf learning-go-by-examples/
+ 1478  ls
+ 1479  clear
+ 1480  go mod init github.com/aditya-j-po/go-rest-api
+ 1481  ls
+ 1482  rm -r go.mod 
+ 1483  ls
+ 1484  clear
+ 1485  mkdir go-rest-api
+ 1486  cd go-rest-api/
+ 1487  go mod init github.com/aditya-j-po/go-rest-api
+ 1488  ls
+ 1489  clear
+ 1490  touch README.md
+ 1491  mkdir bin doc internal pkg/swagger
+ 1492  ls
+ 1493  clear
+ 1494  mkdir bin doc internal pkg pkg/swagger
+ 1495  ls
+ 1496  clear
+ 1497  ls
+ 1498  ls pkg/swagger/
+ 1499  clear
+ 1500  ls
+ 1501  clear
+ 1502  ls
+ 1503  cear
+ 1504  ls
+ 1505  clear
+ 1506  code -r .
+ 1507  cd internal/
+ 1508  ls
+ 1509  touch main.go
+ 1510  clear
+ 1511  go run main.go 
+ 1512  clear
+ 1513  go run main.go 
+ 1514  clear
+ 1515  go run main.go 
+ 1516  go run main.go var
+ 1517  clar
+ 1518  clear
+ 1519  clar
+ 1520  go run main.go var
+ 1521  clear
+ 1522  go run main.go var
+ 1523  go run main.go 5000
+ 1524  clear
+ 1525  exit
+ 1526  clear
+ 1527  go run main.go 5000
+ 1528  go run internal/main.go 5000
+ 1529  go run mod
+ 1530  clear
+ 1531  go run
+ 1532  go run internal/
+ 1533  go run ./internal/
+ 1534  clear
+ 1535  go run ./internal/
+ 1536  go run ./internal/ 5000
+ 1537  go run ./internal/ "5000"
+ 1538  go run ./internal/ "gagan"
+ 1539  clear
+ 1540  go run ./internal/ "gagan"
+ 1541  clear
+ 1542  go run ./internal/ "gagan"
+ 1543  clear
+ 1544  go run ./internal/ "gagan"
+ 1545  clear
+ 1546  go run ./internal/ "gagan"
+ 1547  clear
+ 1548  go run ./internal/ "gagan"
+ 1549  clear
+ 1550  go run ./internal/ "gagan"
+ 1551  clear
+ 1552  go run ./internal/ "gagan"
+ 1553  clear
+ 1554  exit
+ 1555  ls
+ 1556  clear
+ 1557  ls
+ 1558  clear
+ 1559  tree
+ 1560  exit
+ 1561  go run ./internal/
+ 1562  exit
+ 1563  curl localhost:5000
+ 1564  clear
+ 1565  exit
+ 1566  go run ./internal/
+ 1567  exit
+ 1568  go run ./internal/
+ 1569  exit
+ 1570  npm install -g nodemon
+ 1571  clear
+ 1572  exit
+ 1573  ls
+ 1574  clear
+ 1575  mkdir ~./system_tools
+ 1576  cd .
+ 1577  ls
+ 1578  clear
+ 1579  mkdir ~/system_tools
+ 1580  exit
+ 1581  cd system_tools/
+ 1582  ls
+ 1583  touch rungo.sh
+ 1584  exit
+ 1585  touch ~./system_tools/rungo.sh
+ 1586  nvim ~./system_tools/rungo.sh
+ 1587  clear
+ 1588  ls
+ 1589  clear
+ 1590  cd system_tools/
+ 1591  ls
+ 1592  nvim rungo.sh 
+ 1593  chmod +x ~./system_tools/rungo.sh
+ 1594  ls
+ 1595  clear
+ 1596  chmod +x rungo.sh 
+ 1597  ls
+ 1598  clear
+ 1599  ls
+ 1600  clear
+ 1601  nvim ~/.bashrc 
+ 1602  clear
+ 1603  exit
+ 1604  curl localhost:5000
+ 1605  clear
+ 1606  curl localhost:5000
+ 1607  clear
+ 1608  exit
+ 1609  go run ./internal/
+ 1610  clear
+ 1611  go run ./internal/
+ 1612  clear
+ 1613  go run ./internal/
+ 1614  clear
+ 1615  go run ./internal/
+ 1616  clear
+ 1617  go run ./internal/
+ 1618  clear
+ 1619  go run ./internal/
+ 1620  clear
+ 1621  exit
+ 1622  curl localhost:5000
+ 1623  exit
+ 1624  rungo ./internal/
+ 1625  clear
+ 1626  rungo ./internal/
+ 1627  clear
+ 1628  exit
+ 1629  gorun ./internal/
+ 1630  clear
+ 1631  cat ~/.bashrc 
+ 1632  rungo
+ 1633  clear
+ 1634  exit
+ 1635  nvim system_tools/
+ 1636  ls
+ 1637  clear
+ 1638  exit
+ 1639  ls
+ 1640  clear
+ 1641  sudo apt update
+ 1642  clear
+ 1643  sudo apt upgrade 
+ 1644  clear
+ 1645  sudo apt autopurge 
+ 1646  sudo apt autoremove 
+ 1647  sudo apt autopurge --purge 
+ 1648  clear
+ 1649  exit
+ 1650  ls
+ 1651  clear
+ 1652  ls
+ 1653  cd codewits/protectonce/
+ 1654  ls
+ 1655  clear
+ 1656  ls
+ 1657  cd goplay/
+ 1658  ls
+ 1659  clear
+ 1660  mkdir go-grpc-client-server
+ 1661  cd go-grpc-client-server/
+ 1662  lsclear
+ 1663  clear
+ 1664  ls
+ 1665  clear
+ 1666  go mod init github.com/aditya-j-po/go-grpc-client-server
+ 1667  ls
+ 1668  ll
+ 1669  cat go.mod 
+ 1670  mkdir pkg internal 
+ 1671  ls
+ 1672  clear
+ 1673  ls
+ 1674  cd internal/
+ 1675  ls
+ 1676  clear
+ 1677  nvim main.go
+ 1678  go run main.go 
+ 1679  clear
+ 1680  cd ..
+ 1681  ls
+ 1682  clear
+ 1683  code .
+ 1684  ls
+ 1685  clear
+ 1686  exit
+ 1687  rungo ./internal/
+ 1688  clear
+ 1689  rungo ./internal/main.go 
+ 1690  clear
+ 1691  eit
+ 1692  exit
+ 1693  localhost:5000
+ 1694  curl localhost:5000
+ 1695  ls
+ 1696  clear
+ 1697  ls
+ 1698  curl localhost:5000
+ 1699  clear
+ 1700  ls
+ 1701  curl localhost:5000
+ 1702  go run "/home/ue/codewits/protectonce/goplay/go-grpc-client-server/internal/main.go"
+ 1703  clear
+ 1704  ls
+ 1705  claer
+ 1706  clear
+ 1707  ls
+ 1708  clear
+ 1709  ll
+ 1710  rm -rf *
+ 1711  ls
+ 1712  clear
+ 1713  gh repo clone AkhilSharma90/GO-grpc-demo .
+ 1714  ls
+ 1715  clear
+ 1716  go mod tidy
+ 1717  clear
+ 1718  go run clear
+ 1719  go run server/*.go
+ 1720  clear
+ 1721  cd server/
+ 1722  ls
+ 1723  clear
+ 1724  go run main.go 
+ 1725  clear
+ 1726  exit
+ 1727  go run main
+ 1728  go run main.go
+ 1729  clear
+ 1730  rungo server/main.go 
+ 1731  clear
+ 1732  rm -rf .git/
+ 1733  clear
+ 1734  exit
+ 1735  sudo apt update && sudo apt install -y protobuf-compiler
+ 1736  clear
+ 1737  protoc -v
+ 1738  clear
+ 1739  protoc --v
+ 1740  protoc --version
+ 1741  clear
+ 1742  exit
+ 1743  ls
+ 1744  clear
+ 1745  protoc -I=$SRC_DIR --go_out=$DST_DIR $SRC_DIR/addressbook.proto
+ 1746  cd proto/
+ 1747  ls
+ 1748  clear
+ 1749  protoc -I=$SRC_DIR --go_out=$DST_DIR $SRC_DIR/addressbook.proto
+ 1750  protoc -I=. --go_out=. ./greet.proto 
+ 1751  go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ 1752  protoc -I=. --go_out=. ./greet.proto 
+ 1753  ls
+ 1754  clear
+ 1755  exit
+ 1756  clear
+ 1757  exit
+ 1758  clear
+ 1759  go run server/main.go 
+ 1760  clear
+ 1761  go run server/main.go 
+ 1762  go run client/unary.go 
+ 1763  go run client/main.go 
+ 1764  clear
+ 1765  cd client/
+ 1766  go run main.go 
+ 1767  clear
+ 1768  protoc -I=. --go_out=. ./greet.proto 
+ 1769  cd ..
+ 1770  ls
+ 1771  clear
+ 1772  protoc -I=. --go_out=. ./greet.proto 
+ 1773  cd proto/
+ 1774  protoc -I=. --go_out=. ./greet.proto 
+ 1775  clear
+ 1776  cd ..
+ 1777  go run client/main.go 
+ 1778  protoc --version
+ 1779  exit
+ 1780  clear
+ 1781  go run client/main.go 
+ 1782  protoc -I=. --go_out=./ ./greet.proto 
+ 1783  cd proto/
+ 1784  protoc -I=. --go_out=./ ./greet.proto 
+ 1785  ls
+ 1786  rm -rf proto/
+ 1787  cd ..
+ 1788  ls
+ 1789  clear
+ 1790  protoc -I=./proto --go_out=./ ./proto/greet.proto 
+ 1791  ls
+ 1792  clear
+ 1793  protoc --go_out=. --go-grpc_out=. proto/greet.proto 
+ 1794  protoc --go_out=. --go-grpc-client-server_out=. proto/greet.proto 
+ 1795  claer
+ 1796  exit
+ 1797  exit
+ 1798  export PATH="$PATH:$HOME/.local/bin"
+ 1799  echo 'export PATH="$PATH:$HOME/.local/bin"' >> ~/.bashrc && source ~/.bashrc
+ 1800  clear
+ 1801  exit
+ 1802  protoc --go_out=. --go-grpc-client-server_out=. proto/greet.proto 
+ 1803  clear
+ 1804  protoc --go_out=. --go-grpc-client-server_out=. proto/greet.proto 
+ 1805  clear
+ 1806  exit
+ 1807  protoc --go_out=. --go-grpc-client-server_out=. proto/greet.proto 
+ 1808  protoc --version
+ 1809  go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ 1810  go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
+ 1811  sudo apt update
+ 1812  apt install -y protobuf-compiler   
+ 1813  echo 'export PATH="$PATH:$HOME/.local/bin:$(go env GOPATH)/bin"' >> ~/.bashrc && source ~/.bashrc
+ 1814  clear
+ 1815  sudo apt update
+ 1816  apt install -y protobuf-compiler   
+ 1817  go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ 1818  go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
+ 1819  echo 'export PATH="$PATH:$HOME/.local/bin:$(go env GOPATH)/bin"' >> ~/.bashrc && source ~/.bashrc
+ 1820  exit
+ 1821  protoc --go_out=. --go-grpc-client-server_out=. proto/greet.proto 
+ 1822  protoc --go_out=. --go-grpc_out=. proto/greet.proto 
+ 1823  ls
+ 1824  clear
+ 1825  exit
+ 1826  claer
+ 1827  clear
+ 1828  sudo apt update
+ 1829  sudo apt install -y protobuf-compiler   
+ 1830  go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ 1831  go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
+ 1832  echo 'export PATH="$PATH:$HOME/.local/bin:$(go env GOPATH)/bin"' >> ~/.bashrc && source ~/.bashrc
+ 1833  clear
+ 1834  sudo apt upgrade 
+ 1835  clear
+ 1836  exit
+ 1837  go run server/main.go 
+ 1838  go mod tidy
+ 1839  go run server/main.go 
+ 1840  clear
+ 1841  go run server/main.go 
+ 1842  go mod tidy
+ 1843  go run server/main.go 
+ 1844  protoc --go_out=. --go-grpc_out=. proto/greet.proto 
+ 1845  go mod tidy
+ 1846  clear
+ 1847  go run server/main.go 
+ 1848  clear
+ 1849  go run server/main.go 
+ 1850  rungo server/main.go 
+ 1851  clear
+ 1852  go run server/*.go
+ 1853  clear
+ 1854  go run server/*.go
+ 1855  clear
+ 1856  exit
+ 1857  go run client/main.go 
+ 1858  clear
+ 1859  go run client/main.go 
+ 1860  go run client/main.go clear
+ 1861  go run client/main.go 
+ 1862  go run client/main.go clear
+ 1863  go run client/main.go
+ 1864  clear
+ 1865  go run client/main.go 
+ 1866  go run client/main.go
+ 1867  clear
+ 1868  tree
+ 1869  go run client/main.go
+ 1870  go run client/
+ 1871  go run client/*.go
+ 1872  clear
+ 1873  go run client/*.go
+ 1874  clear
+ 1875  go run client/*.go
+ 1876  ls
+ 1877  clear
+ 1878  ls
+ 1879  clear
+ 1880  rungo client/*.go
+ 1881  clear
+ 1882  cler
+ 1883  clear
+ 1884  exit
+ 1885  ls
+ 1886  cd codewits/protectonce/
+ 1887  ls
+ 1888  clear
+ 1889  cd agentless_configurations/
+ 1890  ls
+ 1891  code .
+ 1892  exit
+ 1893  git checkout main
+ 1894  git fetch 
+ 1895  clear
+ 1896  git pull 
+ 1897  clear
+ 1898  exit
+ 1899  clear
+ 1900  exit
+ 1901  git branch 
+ 1902  clear
+ 1903  git checkout feature/remove-api-testing
+ 1904  git pull origin main
+ 1905  clear
+ 1906  git push 
+ 1907  clear
+ 1908  git push 
+ 1909  clear
+ 1910  git push 
+ 1911  clear
+ 1912  git push 
+ 1913  go test server/test_main.go 
+ 1914  go test server/*.go 
+ 1915  go test server/test_main.go 
+ 1916  cd server/
+ 1917  ls
+ 1918  clear
+ 1919  ls
+ 1920  go test test_main.go 
+ 1921  go test *.go 
+ 1922  go test test_*.go 
+ 1923  go mod tidy
+ 1924  clear
+ 1925  go build *.go
+ 1926  ls
+ 1927  clear
+ 1928  ls
+ 1929  rm bi_stream
+ 1930  ls
+ 1931  clear
+ 1932  go build main.go 
+ 1933  ls -lah
+ 1934  rm main
+ 1935  ls
+ 1936  go build .
+ 1937  ls
+ 1938  l
+ 1939  ls -lah
+ 1940  ./server 
+ 1941  clear
+ 1942  exit
+ 1943  go test test_main.go 
+ 1944  clear
+ 1945  go test test_main.go 
+ 1946  tree 
+ 1947  rm server
+ 1948  clear
+ 1949  tree 
+ 1950  go test_main.go 
+ 1951  go test
+ 1952  ls
+ 1953  clear
+ 1954  go test
+ 1955  cd ..
+ 1956  ls
+ 1957  clear
+ 1958  go test
+ 1959  go test server/
+ 1960  go test server/*
+ 1961  go test server/*.go
+ 1962  go test server/test_main.go
+ 1963  cler
+ 1964  git init 
+ 1965  git commit -m "initial working server"
+ 1966  clear
+ 1967  git commit -am "initial working server"
+ 1968  git add .
+ 1969  git commit -am "initial working server"
+ 1970  clera
+ 1971  clear
+ 1972  go test
+ 1973  cd server/
+ 1974  ls
+ 1975  clear
+ 1976  go test
+ 1977  go test_main.go test_main.go 
+ 1978  go test test_main.go 
+ 1979  clear
+ 1980  go test test_main.go 
+ 1981  clear
+ 1982  ls
+ 1983  code 
+ 1984  code .
+ 1985  clear
+ 1986  go test
+ 1987  clear
+ 1988  exit
+ 1989  go run test_main.go 
+ 1990  go test test_main.go 
+ 1991  go test_main.go 
+ 1992  go test
+ 1993  clear
+ 1994  go test
+ 1995  clear
+ 1996  go test
+ 1997  cd server/
+ 1998  go test
+ 1999  exit
+ 2000  go run server/*.go
+ 2001  go run server/
+ 2002  go run server/main
+ 2003  go run server/main.go 
+ 2004  clear
+ 2005  ls
+ 2006  cd server/
+ 2007  ls
+ 2008  clear
+ 2009  go run main.go 
+ 2010  clear
+ 2011  go run *.go
+ 2012  rungo *.go
+ 2013  clear
+ 2014  claer
+ 2015  go run *.go
+ 2016  clear
+ 2017  rungo *.go
+ 2018  clear
+ 2019  go run *.go
+ 2020  clear
+ 2021  cd ..
+ 2022  ls
+ 2023  clear
+ 2024  history
+ 2025  history > base.txt

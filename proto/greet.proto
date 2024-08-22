@@ -39,8 +39,5 @@ message MessagesList {
     repeated string messages = 1;
 }
 
-message ApplicationStackList {
-    repeated 
-}
 
 
